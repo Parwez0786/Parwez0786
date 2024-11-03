@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Deepak Suthar</h1>
+<h1 align="center">Hi 👋, I'm Md Parwez</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksuthar40128&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksuthar40128" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parwez0786&label=Profile%20views&color=0e75b6&style=flat" alt="parwez0786" /> </p>
 
 - 💬 Ask me about **Node.js,Next.js,React,SCSS,Mongo DB,JS,TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepaksuthar40128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepaksuthar40128" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/one_deepak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="one_deepak" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/deepaksuthar40128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepaksuthar40128" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cro_poder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cro_poder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-parwez-ansari-79a4151b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parwez0786" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/codeman86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parwez" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/foolcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parwez0786" height="30" width="40" /></a>
+<a href="https://leetcode.com/parwez0786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parwez0786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
