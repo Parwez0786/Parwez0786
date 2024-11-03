@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parwez</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parwez123&label=Profile%20views&color=0e75b6&style=flat" alt="parwez123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parwez0786&label=Profile%20views&color=0e75b6&style=flat" alt="parwez0786" /> </p>
 
 - 💬 Ask me about **Node.js, React, SCSS, MongoDB, JavaScript, TypeScript**
 
