@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parwez0786&label=Profile%20views&color=0e75b6&style=flat" alt="parwez0786" /> </p>
 
-- 💬 Ask me about **Node.js,Next.js,React,SCSS,Mongo DB,JS,TS**
+- 💬 Ask me about **Node.js,Next.js,React, Java, Spring Boot, Redis, Kafka, Docker, Aws, SCSS,Mongo DB,JS,TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
